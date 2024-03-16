@@ -1,6 +1,6 @@
 {
     "hour": 11,
-    "minute": 30,
+    "minute": 01,
     "command": "start http://vdse.bdstatic.com//1ca443a38d9bc9f7394b7f394cb63885.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-03-15T02%3A54%3A17Z%2F-1%2Fhost%2Fd3b23284660be04a3dc31afc324bd27b18894d036076a9e7e65009247",
     "property": 50,
     "enable": true
